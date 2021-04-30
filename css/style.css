@@ -81,11 +81,11 @@ header {
 }
 
 #nav-holiday {
-  top: 41px;
-  position: relative;
+  top: 11px;
+  position: absolute;
   background-image: url('../img/fathers_day.jpg');
   width: 600px;
-  height: 39px;
+  height: 19px;
 }
 
 #nav-holiday a {
