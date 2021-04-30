@@ -81,8 +81,8 @@ header {
 }
 
 #nav-holiday {
-  top: 11px;
-  position: absolute;
+  top: 41px;
+  position: flex;
   background-image: url('../img/fathers_day.jpg');
   width: 600px;
   height: 19px;
